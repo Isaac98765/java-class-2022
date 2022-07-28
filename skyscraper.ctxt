@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=skyscraper
+comment1.params=coler\ age\ hight
+comment1.target=skyscraper(java.lang.String,\ int,\ int)
+numComments=2
